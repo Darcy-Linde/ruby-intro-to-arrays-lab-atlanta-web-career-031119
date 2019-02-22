@@ -19,4 +19,6 @@ def third_element(array)
 end
 
 #last_element
-def last_element
+def last_element(array)
+  array[-1]
+end
