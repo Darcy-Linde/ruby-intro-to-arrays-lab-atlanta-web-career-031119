@@ -14,4 +14,6 @@ def first_element(array)
 end
 
 #third_element
-def third_element
+def third_element(array)
+  array[2]
+end
